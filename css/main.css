@@ -1,0 +1,211 @@
+.header-up {
+  background-color: rgba(246, 246, 246, 1);
+}
+.site-logo-img {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  width: 264px;
+  height: 28px;
+}
+.money-item {
+  list-style: none;
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgb(0, 0, 0);
+  width: 69px;
+  height: 19px;
+}
+.symbol{
+  list-style: none;
+  color: rgb(41, 89, 206);
+}
+.search {
+  background-color: rgb(255, 255, 255);
+  color: rgba(141, 141, 141, 1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  width: 275px;
+  height: 45px;
+  border-radius: 50px;
+}
+.tongue-item {
+  background: rgba(220, 230, 255, 1);
+  border-radius: 50px;
+  list-style: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 12px;
+  color: rgb(0, 0, 0);
+  width: 70px;
+  height: 36px;
+}
+.sign-button {
+  background-color: rgba(114, 150, 236, 1);
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  width: 89px;
+  height: 45px;
+}
+.site-navigation-list{
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  font-family: 'Rubik', sans-serif; 
+}
+.site-navigation-item{
+  list-style: none;
+}
+.site-navigation-item-link {
+  color: rgba(127, 127, 127, 1);
+  text-decoration: none;
+}
+.latest-news-list{
+  list-style: none;
+}
+
+.latest-news-item {
+  background: rgba(246, 246, 246, 1);
+}
+
+.latest-news-title-link {
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-decoration: none;
+  font-family: 'Rubik', sans-serif;
+}
+.latest-news-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration: none;
+  color: rgba(74, 75, 76, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.icon-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(94, 95, 97, 1);
+  text-decoration: none;
+}
+.site-article-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: 'Rubik', sans-serif;
+}
+.world-news-big-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: rgb(0, 0, 0);
+  font-family: 'Rubik', sans-serif;
+}
+.world-news-list {
+  list-style: none;
+  background: rgba(246, 246, 246, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.world-news-title-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: 'Rubik', sans-serif;
+}
+.world-news-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(74, 75, 76, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.logo-text2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(94, 95, 97, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.basic-news-big-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.basic-news-list {
+  list-style: none;
+  background: rgba(246, 246, 246, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.basic-news-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgba(0, 0, 0, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.basic-news-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  color: rgba(94, 95, 97, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.site-footer {
+  background: rgba(114, 151, 239, 1);
+}
+.site-footer-list{
+  list-style: none;
+  font-family: 'Rubik', sans-serif;
+}
+.site-footer-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 19px;
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Rubik', sans-serif;
+}
+.social-media-list{
+  list-style: none;
+}
+.site-footer-item-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgb(255, 255, 255);
+}
+.social-media-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  color: rgb(255, 255, 255);
+}
